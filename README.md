@@ -3,8 +3,8 @@ juelich-meg-utils
 
 MEG utilities in Python
 
-This repo harbors utlity routines supporting MEG research while focusing on
-Python and the MNE software.
+This repo harbors utlity routines supporting MEG research.
+The focus is put on a workflow based on Python and the [MNE software](http://martinos.org/mne/index.html 'MNE').
 
 
 Installation
